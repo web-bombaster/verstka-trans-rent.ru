@@ -402,6 +402,10 @@ body,
   margin-bottom: 0;
 }
 
+.s03 {
+  margin-bottom: 90px;
+}
+
 .filter-btns {
   width: 100%;
   margin-bottom: 40px;
@@ -484,6 +488,8 @@ body,
 .filter-category__item.toggle .product-thumb {
   flex-grow: 1;
 }
+
+/*# sourceMappingURL=style.css.map */
 
 @media (min-width: 480px) {
   .video-wrap {
